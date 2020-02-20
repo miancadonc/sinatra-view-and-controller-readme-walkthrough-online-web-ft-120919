@@ -3,3 +3,10 @@ body {
   background-color: #D4F5F5;
   color: #554348
 }
+
+h2 {
+  color: blue;
+  font-size: larger;
+  font-weight: 200;
+  font-family: cursive;
+}
